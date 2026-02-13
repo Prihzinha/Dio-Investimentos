@@ -1,5 +1,5 @@
 ### Dio-Investimentos
-![dio invest](https://github.com/Prihzinha/Dio-Investimentos/blob/DesafioPytest_Squad_Ada_Lovelace/Imagem1.png)
+![dio invest](https://github.com/Prihzinha/Dio-Investimentos/blob/DesafioDioInvest/Imagem1.png)
 
 #Planilha para calculo de investimentos do tipo "fundos imobiliarios"
 
